@@ -5,4 +5,10 @@
 下面直接上图：   
 
 
-![image](https://github.com/wendy827/miniapp/edit/master/imgs/gh_e4eb625ee6eb_258.jpg)
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/gh_e4eb625ee6eb_258.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/今日打卡.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/全部目标.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/我的.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/目标轨迹.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/目标库.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/编辑目标.jpg)   
