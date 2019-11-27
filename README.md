@@ -12,3 +12,4 @@
 ![image](https://github.com/wendy827/miniapp/blob/master/imgs/目标轨迹.jpg)   
 ![image](https://github.com/wendy827/miniapp/blob/master/imgs/目标库.jpg)   
 ![image](https://github.com/wendy827/miniapp/blob/master/imgs/编辑目标.jpg)   
+![image](https://github.com/wendy827/miniapp/blob/master/imgs/打卡提醒.jpg)   
