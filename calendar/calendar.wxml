@@ -1,0 +1,33 @@
+ <view class="canlendar-inner-content">
+    <view class="canlendar-text">
+      <text class="options-text" bindtap="pickPrev">上一月</text>
+      <text class="year-month-text">{{currentYear}}年{{currentMonth}}月</text>
+      <text class="options-text" bindtap="pickNext">下一月</text>
+    </view>
+    <view class='canlendar-content'>
+      <view class="weekdays">
+        <view class="weekday-item">一</view>
+        <view class="weekday-item">二</view>
+        <view class="weekday-item">三</view>
+        <view class="weekday-item">四</view>
+        <view class="weekday-item">五</view>
+        <view class="weekday-item">六</view>
+        <view class="weekday-item">日</view>
+      </view>
+      <view class="days-content">
+        <block wx:for="{{days}}" wx:key="index">
+          <view class="days-item">
+            <view wx:if="{{item.monthNumber != currentMonth}}" class="number-item other-month">
+              {{ item.dateNumber }}
+            </view>
+            <view wx:elif="{{!item.isChecked}}" class="number-item">
+              {{ item.dateNumber}}
+            </view>
+            <view class="number-item" wx:else>
+              <image src="../../images/checked.png" class="checked-icon" />
+            </view>
+          </view>
+        </block>
+      </view>
+    </view>
+  </view>
